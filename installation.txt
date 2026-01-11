@@ -1,0 +1,3 @@
+- Make sure UnityModManager is installed properly, via DoorstopProxy
+- Unpack the contents into the "Terra Invicta\Mods\Enabled\TIEconomyNuts + Get Claims [RC13A]" folder
+- Enable the mod in the game menu (and UMM)
