@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<WorkshopItemInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PublishedFileId>3373498251</PublishedFileId>
+  <Name>TIEconomyNuts + Get Claims [RC13A]</Name>
+  <Description>Original mod: https://steamcommunity.com/sharedfiles/filedetails/?id=3155721134 
+
+This mod is an update of the "Big Country Economy Rework" mod by Dmitri. If Dmitri decides that I am breaking any kind of copyright here, I am willing to take this off the workshop at any moment. 
+
+Personally I cannot play this game without his mod, so that's why I went and updated it to the current game version, and it is based on UMM (UnityModManager). No BepInEx needed.
+
+[b]Additionally, my mod allows you to change some values that vanilla doesn't let you change:[/b]
+[list]
+[*]GDP to IP scaling (you can make countries produce as much IP as you want them to);
+[/list]
+
+[b]Other functionality that I've added:[/b]
+
+You can get a claim on your rival's regions by setting a national policy.
+[b]It works like this:[/b]
+1. You select the "Set National Policy" Mission.
+2. Once the mission goes through, at the bottom of the policies list you will find the "Claim Rival Regions" option.
+3. Click on that, you get to choose the nation you want to get claims on. You can only choose from rivals, so make sure to rival that nation before you go through with this.
+4. Select the nation, confirm your choice, and boom, you got a claim on all the regions they currently control.
+(In the future, I hope I'll have time and energy to also add costs for this, like cohesion debuffs or whatever)
+
+
+Requirements:
+
+https://www.nexusmods.com/site/mods/21/ — Unity Mod Manager. Use DoorstopProxy.
+
+If anything doesn't work, make sure to check:
+1. You have UnityModManager installed correctly;
+2. Go to the folder [b]Terra Invicta\Mods\Enabled\TIEconomyNuts[/b] and make sure it has the corresponding DLL which is named [b]TIEconomyNuts.dll[/b].</Description>
+  <IconFileName>TIEconomyNuts + Get Claims [RC13A].png</IconFileName>
+  <Tags>
+    <string>Balance</string>
+  </Tags>
+</WorkshopItemInfo>

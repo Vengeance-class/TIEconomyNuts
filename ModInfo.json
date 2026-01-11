@@ -1,0 +1,29 @@
+{
+	"title": "TIEconomyNuts",
+	"author": "VNGNC",
+	"description": "The economy is nuts!",
+	"LoadOrder": 0,
+	"TemplatesToConcatArrays": [
+	
+	],
+	"TemplatesToReplaceArrays": [
+	
+	],
+	"TemplatesToReplace": [
+	
+	],
+	"Id": "TIEconomyNuts",
+	"DisplayName": "TIEconomyNuts",
+	"Author": "VNGNC",
+	"Version": "1.0.0",
+	"ManagerVersion": "0.31.0.0",
+	"GameVersion": "0.4.38",
+	"Requirements": [
+	
+	],
+	"LoadAfter": [
+	
+	],
+	"AssemblyName": "TIEconomyNuts.dll",
+	"EntryMethod": "TIEconomyNuts.Main.Load"
+}

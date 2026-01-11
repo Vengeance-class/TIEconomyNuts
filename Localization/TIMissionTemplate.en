@@ -1,0 +1,5 @@
+TIEconomyNuts.ClaimRegionOption.displayName=Claim Rival Regions
+TIEconomyNuts.ClaimRegionOption.description=Claims all regions owned by the target rival nation.
+TIEconomyNuts.ClaimRegionOption.confirmText=Are you sure you want to claim ownership of this nation's regions?
+UI.Notifications.TIEconomyNuts.ClaimRegionOption.Hed=Regions Claimed
+UI.Notifications.TIEconomyNuts.ClaimRegionOption.Detail=We have asserted our claims over the regions of our rival.
