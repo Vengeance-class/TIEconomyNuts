@@ -1,0 +1,12 @@
+{
+  "Id": "TIEconomyNuts",
+  "DisplayName": "TIEconomyNuts",
+  "Author": "VNGNC",
+  "Version": "1.0.0",
+  "ManagerVersion": "1.0.0",
+  "GameVersion": "1.0.26",
+  "Requirements": [ ],
+  "LoadAfter": [ ],
+  "AssemblyName": "TIEconomyNuts.dll",
+  "EntryMethod": "TIEconomyNuts.Main.Load"
+}
